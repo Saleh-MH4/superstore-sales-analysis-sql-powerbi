@@ -33,6 +33,7 @@ Analyzed 10,000+ retail transactions (2014-2017) to uncover profitability driver
 - Category profitability comparison
 
 <img width="1453" height="817" alt="Page1_Executive_Overview" src="https://github.com/user-attachments/assets/cbf15295-60d8-4127-926d-ed563d2444ef" />
+![power bi dashboard](https://github.com/user-attachments/assets/3488947f-3a63-4301-88c2-6e24f0eedec4)
 
 
   
@@ -44,6 +45,7 @@ Analyzed 10,000+ retail transactions (2014-2017) to uncover profitability driver
 - Sales volume distribution
 
 <img width="1439" height="806" alt="Page2_Product_Analysis" src="https://github.com/user-attachments/assets/21e6fca2-1cd3-4bab-aa33-00e0b7a837a4" />
+![power bi dashboard](https://github.com/user-attachments/assets/f638f141-90c9-4702-b552-0a1455958c40)
 
 
 
