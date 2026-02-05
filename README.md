@@ -111,11 +111,8 @@ ORDER BY Year, Month;
 
 
 
-## 👤 Contact
 
-**[ٍSaleh Misfir]**  
-📧Email: csusbhelz@gmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/saleh-m-708a8320a/) 
+
 
 
 ---
