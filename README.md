@@ -1,30 +1,30 @@
 # superstore-sales-analysis-sql-powerbi
  Analyze retail sales performance (2014-2017) to identify revenue trends, product profitability, and geographic opportunities USING SQL and power bi 
-# 📊 Superstore Sales Analysis Dashboard
+#  Superstore Sales Analysis Dashboard
 
 > Interactive SQL and Power BI dashboard analyzing 4 years of retail sales data to identify $100K+ in profit optimization opportunities.
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Analyzed 10,000+ retail transactions (2014-2017) to uncover profitability drivers and provide actionable business recommendations.
 
 **Key Results:**
-- 💰 $2.30M revenue, $286.8K profit (12.49% margin)
-- 📊 Identified $100K+ profit improvement opportunity
-- ⚠️ Discovered critical pricing issue in Furniture category (2% margin)
-- 🎯 Technology drives 51% of profit despite only 18% of volume
+-  $2.30M revenue, $286.8K profit (12.49% margin)
+-  Identified $100K+ profit improvement opportunity
+-  Discovered critical pricing issue in Furniture category (2% margin)
+-  Technology drives 51% of profit despite only 18% of volume
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 **SQL Server** • **Power BI** • **Excel**
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Page 1: Executive Overview
 - KPI cards (Revenue, Profit, Margin, Customers)
@@ -49,7 +49,7 @@ Analyzed 10,000+ retail transactions (2014-2017) to uncover profitability driver
 
 
 
-## 🔍 SQL Analysis
+##  SQL Analysis
 
 **6 Analytical Queries:**
 1. Overall business KPIs
@@ -78,12 +78,12 @@ ORDER BY Year, Month;
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 **Product Performance:**
-- Technology: $145K profit (51% of total) at 15% margin ✅
-- Office Supplies: $122K profit, stable performer ✅
-- Furniture: Only $10K profit at 2% margin ⚠️
+- Technology: $145K profit (51% of total) at 15% margin 
+- Office Supplies: $122K profit, stable performer 
+- Furniture: Only $10K profit at 2% margin 
 
 **Geographic Insights:**
 - Top states: California, New York, Texas
@@ -99,14 +99,14 @@ ORDER BY Year, Month;
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
-✅ SQL queries & aggregations  
-✅ Power BI dashboard development  
-✅ DAX measures & calculations  
-✅ Data visualization best practices  
-✅ Business insight generation  
-✅ Strategic recommendations  
+- SQL queries & aggregations  
+- Power BI dashboard development  
+- DAX measures & calculations  
+- Data visualization best practices  
+- Business insight generation  
+- Strategic recommendations  
 
 
 
